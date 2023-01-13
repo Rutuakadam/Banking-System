@@ -8,3 +8,4 @@ Flow : Home Page > View all customers > Select and View one customer > Transfer 
 
 # website link
 https://Rutuakadam.github.io/Banking-System/
+https://github.com/Rutuakadam/Banking-System/blob/main/index.html/
